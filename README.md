@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analysis, SQL, Python, Tableau
 - 💞️ I’m looking to collaborate on Data Analysis
-- 📫 How to reach me dom [DOT] barry [AT] gmail [DOT] com
+- 📫 How to reach me dom.barry [AT] gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: keen runner
 
